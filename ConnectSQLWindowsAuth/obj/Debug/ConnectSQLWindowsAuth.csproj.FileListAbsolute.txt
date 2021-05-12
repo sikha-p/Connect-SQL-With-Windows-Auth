@@ -1,0 +1,9 @@
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\bin\Debug\ConnectSQLWindowsAuth.dll
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\bin\Debug\ConnectSQLWindowsAuth.pdb
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\obj\Debug\ConnectSQLWindowsAuth.csprojAssemblyReference.cache
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\obj\Debug\ConnectSQLWindowsAuth.csproj.CoreCompileInputs.cache
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\obj\Debug\ConnectSQLWindowsAuth.dll
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\obj\Debug\ConnectSQLWindowsAuth.pdb
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sikha.P\source\repos\ConnectSQLWindowsAuth\ConnectSQLWindowsAuth\obj\Debug\ConnectSQLWindowsAuth.csproj.CopyComplete
